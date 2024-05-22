@@ -2,4 +2,4 @@ Download the DNG360FixerSetup.exe Setup file and follow the installation. An ico
 
 The original file is saved with the sufix "_original".
 
-[![Download Setup](https://img.shields.io/badge/Download-Setup.zip-brightgreen)](https://github.com/LauritzOffe/DNG-360-Fixer/blob/main/DNG360FixerSetup.exe)
+[![Download Setup](https://img.shields.io/badge/DNG360FixerSetup.exe-brightgreen)]([https://github.com/LauritzOffe/DNG-360-Fixer/blob/main/DNG360FixerSetup.exe](https://github.com/LauritzOffe/DNG-360-Fixer/releases/tag/publish))
