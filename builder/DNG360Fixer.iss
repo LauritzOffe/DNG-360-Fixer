@@ -23,7 +23,7 @@ Source: "C:\Program Files (x86)\Geo\GeoSetter\tools\exiftool.exe"; DestDir: "{ap
 Source: "C:\Program Files (x86)\Geo\GeoSetter\tools\Icon.ico"; DestDir: "{app}"; Flags: ignoreversion
 
 [Icons]
-Name: "{group}\Geo Batch Tool"; Filename: "{app}\geo.bat"; IconFilename: "{app}\Icon.ico"
+Name: "{group}\DNG 360 Fixer"; Filename: "{app}\geo.bat"; IconFilename: "{app}\Icon.ico"
 Name: "{group}\{cm:UninstallProgram,Geo Batch Tool}"; Filename: "{uninstallexe}"
 Name: "{commondesktop}\Geo Batch Tool"; Filename: "{app}\geo.bat"; IconFilename: "{app}\Icon.ico"; Tasks: desktopicon
 
